@@ -62,3 +62,17 @@ PyTorch Prediction
 Confidence Analysis
       ↓
 Visualization Dashboard
+
+# 📷 Screenshots
+
+## Prediction Dashboard
+
+![Dashboard](screenshots/op1.jpg)
+![Dashboard](screenshots/op2.jpg)
+![Dashboard](screenshots/op3.jpg)
+![Dashboard](screenshots/op4.jpg)
+
+## Note
+
+Model files are not uploaded due to GitHub file size limitations.
+
