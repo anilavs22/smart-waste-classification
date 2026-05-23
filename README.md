@@ -46,7 +46,7 @@ Deep learning-based waste classification system developed using TensorFlow, PyTo
 - Shoes
 - Trash
 
----
+
 
 # ⚙️ Project Workflow
 
@@ -68,8 +68,11 @@ Visualization Dashboard
 ## Prediction Dashboard
 
 ![Dashboard](screenshots/op1.jpg)
+
 ![Dashboard](screenshots/op2.jpg)
+
 ![Dashboard](screenshots/op3.jpg)
+
 ![Dashboard](screenshots/op4.jpg)
 
 ## Note
