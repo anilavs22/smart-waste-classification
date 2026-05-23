@@ -4,7 +4,7 @@ Deep learning-based waste classification system developed using TensorFlow, PyTo
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Multi-class waste image classification
 - TensorFlow and PyTorch prediction comparison
@@ -17,7 +17,7 @@ Deep learning-based waste classification system developed using TensorFlow, PyTo
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -32,7 +32,7 @@ Deep learning-based waste classification system developed using TensorFlow, PyTo
 
 ---
 
-# 📂 Waste Categories
+#  Waste Categories
 
 - Battery
 - Biological
@@ -47,7 +47,7 @@ Deep learning-based waste classification system developed using TensorFlow, PyTo
 
 ---
 
-# ⚙️ Project Workflow
+#  Project Workflow
 
 ```text
 Image Upload
@@ -65,7 +65,7 @@ Visualization Dashboard
 
 ---
 
-# 📊 Features Demonstrated
+#  Features Demonstrated
 
 ✅ Deep Learning Classification  
 ✅ Transfer Learning  
@@ -78,7 +78,7 @@ Visualization Dashboard
 
 ---
 
-# 🖥️ Streamlit Dashboard
+# Streamlit Dashboard
 
 The application supports:
 
@@ -92,7 +92,7 @@ The application supports:
 
 ---
 
-# 📦 Installation
+#  Installation
 
 ## 1. Clone Repository
 
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run Application
+#  Run Application
 
 ```bash
 python -m streamlit run app.py
@@ -130,7 +130,7 @@ python -m streamlit run app.py
 
 ---
 
-# 📈 Example Predictions
+#  Example Predictions
 
 ```text
 TensorFlow → Plastic (0.92)
@@ -139,7 +139,7 @@ PyTorch → Plastic (0.89)
 
 ---
 
-# 📌 Project Highlights
+#  Project Highlights
 
 - Implemented transfer learning workflows for image classification
 - Built comparative prediction system using TensorFlow and PyTorch
@@ -149,7 +149,7 @@ PyTorch → Plastic (0.89)
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - Real-time webcam prediction
 - YOLO-based object detection
@@ -160,7 +160,7 @@ PyTorch → Plastic (0.89)
 
 ---
 
-# 📷 Screenshots
+# Screenshots
 
 ## Prediction Dashboard
 
@@ -174,7 +174,7 @@ PyTorch → Plastic (0.89)
 
 ---
 
-# 📌 Note
+#  Note
 
 Model files are not uploaded due to GitHub file size limitations.
 
