@@ -1,4 +1,4 @@
-# ♻️ Smart Waste Classification System using TensorFlow & PyTorch
+# Smart Waste Classification System using TensorFlow & PyTorch
 
 Deep learning-based waste classification system developed using TensorFlow, PyTorch, and Streamlit for identifying recyclable and non-recyclable waste materials from image inputs.
 
@@ -67,14 +67,14 @@ Visualization Dashboard
 
 #  Features Demonstrated
 
-✅ Deep Learning Classification  
-✅ Transfer Learning  
-✅ TensorFlow & PyTorch Integration  
-✅ Comparative Model Evaluation  
-✅ Streamlit Deployment  
-✅ Confidence Visualization  
-✅ Top-3 Prediction Analysis  
-✅ Real-world Waste Classification
+ Deep Learning Classification  
+ Transfer Learning  
+ TensorFlow & PyTorch Integration  
+ Comparative Model Evaluation  
+ Streamlit Deployment  
+ Confidence Visualization  
+ Top-3 Prediction Analysis  
+ Real-world Waste Classification
 
 ---
 
